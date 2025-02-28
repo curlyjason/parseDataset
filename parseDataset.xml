@@ -30,6 +30,7 @@
         <ObsoleteConnectionProperties Editor="hide" Type="string"/>
         <datasetName Default="" DetailedInfo="" Editor="inline;sltextwithvar" LocalizedTagName="datasetName" Subtype="inline" Tooltip="" Type="string" UserDefined="true" Validation="Standard"></datasetName>
         <keyAndJSONpaths Default="" DetailedInfo="" Editor="mltextwithvar" LocalizedTagName="keyAndJSONpaths" Subtype="" Tooltip="multiple paths can be described&#10;one path per line, format privateDateKey::path" Type="string" UserDefined="true" Validation="Standard"></keyAndJSONpaths>
+        <delimeter Default="::" DetailedInfo="" Editor="inline" LocalizedTagName="delimeter" Subtype="inline" Tooltip="" Type="string" UserDefined="true" Validation="Standard">::</delimeter>
     </ElementFields>
     <ConnectionFields/>
     <ExtraProperties/>
